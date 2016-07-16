@@ -42,3 +42,9 @@ Website automation is the use of special programs and other tools to manage webs
   
 ### Project
 
+### Resources
+- [API - webopedia](http://www.webopedia.com/TERM/A/API.html)
+- [API - wikipedia](https://en.wikipedia.org/wiki/Application_programming_interface)
+- [Nightwatch.js](http://nightwatchjs.org/)
+- [DOM Element Object - w3schools](http://www.w3schools.com/jsref/dom_obj_all.asp)
+- [jQuery tutorial - w3schools](http://www.w3schools.com/jquery/)
