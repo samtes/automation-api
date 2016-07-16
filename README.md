@@ -33,10 +33,10 @@ Website automation is the use of special programs and other tools to manage webs
 - Automation framework
   - Nightwatch.js environment setup
     - Dependency setup
-      - Brew
-      - Node.js
-      - npm
-    - Nightwatcn.js configuration setup
+      - [Brew](http://brew.sh/)
+      - [Node.js](https://nodejs.org/en/)
+      - [npm](https://www.npmjs.com/)
+    - [Nightwatcn.js](Nightwatch.js) configuration setup
       - nightwatch.json basic setup
       - how to setup simple test
   
