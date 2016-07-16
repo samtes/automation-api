@@ -13,10 +13,10 @@ Application program interface (API) is a set of routines, protocols, and tools f
 - error responses
 
 ### Methods of testing API
-- Advance Rest client
-- Postman
-- soupUI
-- Curl
+- [Advance Rest client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?hl=en-US)
+- [Postman](https://www.getpostman.com/)
+- [soupUI](https://www.soapui.org/)
+- [Curl](https://curl.haxx.se/)
 
 ### Project
 
