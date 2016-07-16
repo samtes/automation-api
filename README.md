@@ -37,8 +37,8 @@ Website automation is the use of special programs and other tools to manage webs
       - [Node.js](https://nodejs.org/en/)
       - [npm](https://www.npmjs.com/)
     - [Nightwatcn.js](Nightwatch.js) configuration setup
-      - nightwatch.json basic setup
-      - how to setup simple test
+      - [nightwatch.json basic setup](http://nightwatchjs.org/guide#settings-file)
+      - [how to setup simple test - using nightwatch API](http://nightwatchjs.org/api)
   
 ### Project
 
