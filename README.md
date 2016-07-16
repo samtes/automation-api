@@ -2,6 +2,13 @@
 ### What is API
 ### How does it work
 ### Requirements for testing API
+- action
+- route/endpoint
+- authentication
+- payload
+- success response
+- error responses
+
 ### Methods of testing API
 - Advance Rest client
 - Postman
