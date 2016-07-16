@@ -19,6 +19,7 @@ Application program interface (API) is a set of routines, protocols, and tools f
 - [Curl](https://curl.haxx.se/)
 
 ### Project
+\<to be provided\>
 
 ## Web Automation Testing
 ### What is web automation
@@ -41,7 +42,7 @@ Website automation is the use of special programs and other tools to manage webs
       - [how to setup simple test - using nightwatch API](http://nightwatchjs.org/api)
   
 ### Project
-
+\<to be provided\>
 ### Resources
 - [API - webopedia](http://www.webopedia.com/TERM/A/API.html)
 - [API - wikipedia](https://en.wikipedia.org/wiki/Application_programming_interface)
