@@ -19,6 +19,8 @@
 
 ## Web Automation Testing
 ### What is web automation
+Website automation is the use of special programs and other tools to manage website information and and user interactions. From testing perspective, web automation is used for automating test cases and test suits that will make testing - mostly regression testing manageable and efficient. 
+
 ### Web automation components
 - DOM elements
   - How to manipulate elements programmatically
